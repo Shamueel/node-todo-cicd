@@ -9,7 +9,7 @@
     "sanitizer": "^0.1.3"
   },
   "scripts": {
-    "build": "npm install && eslint ."
+    "build": "npm install && eslint .",
     "start": "node app.js",
     "test": "mocha --recursive --exit"
     
